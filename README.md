@@ -3,7 +3,7 @@
 # qsoul
 ### `c1osed1`
 
-Developer based in Moscow. Mostly macOS, TypeScript, and Flutter.
+Developer based in Moscow. React frontends, TypeScript backends, Flutter, and macOS.
 
 [![Telegram](https://img.shields.io/badge/Telegram-qsoulmain-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/qsoulmain)
 [![GitHub](https://img.shields.io/badge/GitHub-c1osed1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/c1osed1)
@@ -11,7 +11,7 @@ Developer based in Moscow. Mostly macOS, TypeScript, and Flutter.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7DD3C7&center=true&vCenter=true&multiline=true&width=560&height=70&lines=Swift+%C2%B7+TypeScript+%C2%B7+Flutter;macOS+%C2%B7+web+%C2%B7+mobile" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7DD3C7&center=true&vCenter=true&multiline=true&width=560&height=70&lines=React+%C2%B7+TypeScript+%C2%B7+Flutter;macOS+%C2%B7+web+%C2%B7+mobile" alt="typing" />
 
 </div>
 
@@ -19,7 +19,7 @@ Developer based in Moscow. Mostly macOS, TypeScript, and Flutter.
 
 ### currently
 
-- full-stack product work at a company — web, mobile, and internal tools (private)
+- full-stack product work at a company — React frontends, APIs, and mobile (private)
 - contributing to **[Atoll](https://github.com/Ebullioscopic/Atoll)** on the side
 - occasional native macOS apps
 
@@ -40,7 +40,7 @@ Developer based in Moscow. Mostly macOS, TypeScript, and Flutter.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,ts,js,dart,flutter,react,nodejs,postgres,python,docker,figma,git" alt="stack" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,dart,flutter,swift,postgres,python,docker,figma,git" alt="stack" />
 
 </div>
 
@@ -48,9 +48,9 @@ Developer based in Moscow. Mostly macOS, TypeScript, and Flutter.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=c1osed1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0B0B&title_color=7DD3C7&icon_color=7DD3C7&text_color=C8C8C8&ring_color=7DD3C7" alt="stats" />
+<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=c1osed1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0B0B&title_color=7DD3C7&icon_color=7DD3C7&text_color=C8C8C8&ring_color=7DD3C7" alt="stats" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1osed1&layout=compact&hide_border=true&bg_color=0B0B0B&title_color=7DD3C7&text_color=C8C8C8&langs_count=6" alt="langs" />
+<img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=c1osed1&layout=compact&hide_border=true&bg_color=0B0B0B&title_color=7DD3C7&text_color=C8C8C8&langs_count=6" alt="langs" />
 
 <br/><br/>
 
