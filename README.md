@@ -19,8 +19,9 @@ Developer based in Moscow. Mostly macOS, TypeScript, and Flutter.
 
 ### currently
 
-- contributing to **[Atoll](https://github.com/Ebullioscopic/Atoll)**
-- working on native macOS and full-stack product projects
+- full-stack product work at a company — web, mobile, and internal tools (private)
+- contributing to **[Atoll](https://github.com/Ebullioscopic/Atoll)** on the side
+- occasional native macOS apps
 
 ---
 
