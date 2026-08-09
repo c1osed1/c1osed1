@@ -3,7 +3,7 @@
 # qsoul
 ### `c1osed1`
 
-Building things that feel native — macOS surfaces, product UIs, and the glue between them.
+Developer based in Moscow. Mostly macOS, TypeScript, and Flutter.
 
 [![Telegram](https://img.shields.io/badge/Telegram-qsoulmain-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/qsoulmain)
 [![GitHub](https://img.shields.io/badge/GitHub-c1osed1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/c1osed1)
@@ -11,29 +11,27 @@ Building things that feel native — macOS surfaces, product UIs, and the glue b
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7DD3C7&center=true&vCenter=true&multiline=true&width=560&height=70&lines=Swift+%C2%B7+TypeScript+%C2%B7+Flutter;macOS+UI+%C2%B7+APIs+%C2%B7+product+polish" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7DD3C7&center=true&vCenter=true&multiline=true&width=560&height=70&lines=Swift+%C2%B7+TypeScript+%C2%B7+Flutter;macOS+%C2%B7+web+%C2%B7+mobile" alt="typing" />
 
 </div>
 
 ---
 
-### now
+### currently
 
-- shipping polish on **[Atoll](https://github.com/Ebullioscopic/Atoll)** — Dynamic Island for macOS  
-- native menu-bar music with **[soundpulse](https://github.com/c1osed1/soundpulse)**  
-- product work across TypeScript backends, Flutter clients, and CRM surfaces  
+- contributing to **[Atoll](https://github.com/Ebullioscopic/Atoll)**
+- working on native macOS and full-stack product projects
 
 ---
 
-### public work
+### selected projects
 
 | | |
 |---|---|
-| **[Atoll](https://github.com/Ebullioscopic/Atoll)** | macOS Dynamic Island — open-source contributions (UI, timer, lock screen) |
-| **[soundpulse](https://github.com/c1osed1/soundpulse)** | Menu bar player for Apple Music & Spotify · Liquid Glass |
+| **[Atoll](https://github.com/Ebullioscopic/Atoll)** | Dynamic Island for macOS |
+| **[soundpulse](https://github.com/c1osed1/soundpulse)** | Menu bar player for Apple Music and Spotify |
 | **[konnectapp](https://github.com/c1osed1/konnectapp)** | Native macOS client |
 | **[LanSearch](https://github.com/c1osed1/LanSearch)** | Browser extension |
-| **[music.k-connect.ru](https://github.com/c1osed1/music.k-connect.ru)** | Music web client |
 
 ---
 
@@ -56,9 +54,5 @@ Building things that feel native — macOS surfaces, product UIs, and the glue b
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=c1osed1&bg_color=0B0B0B&color=7DD3C7&line=7DD3C7&point=E8E8E8&area=true&hide_border=true&custom_title=activity" alt="activity" width="100%" />
-
-<br/>
-
-<sub>open a door · close a notch · ship the feel</sub>
 
 </div>
