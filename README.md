@@ -31,7 +31,7 @@ Developer based in Moscow. React frontends, TypeScript backends, Flutter, and ma
 |---|---|
 | **[Atoll](https://github.com/Ebullioscopic/Atoll)** | Dynamic Island for macOS |
 | **[soundpulse](https://github.com/c1osed1/soundpulse)** | Menu bar player for Apple Music and Spotify |
-| **[konnectapp](https://github.com/c1osed1/konnectapp)** | Native macOS client |
+| **[konnectapp](https://github.com/c1osed1/konnectapp)** | iOS client |
 | **[LanSearch](https://github.com/c1osed1/LanSearch)** | Browser extension |
 
 ---
