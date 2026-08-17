@@ -33,6 +33,8 @@ Developer based in Moscow. React frontends, TypeScript backends, Flutter, and ma
 | **[soundpulse](https://github.com/c1osed1/soundpulse)** | Menu bar player for Apple Music and Spotify |
 | **[konnectapp](https://github.com/c1osed1/konnectapp)** | iOS client |
 | **[LanSearch](https://github.com/c1osed1/LanSearch)** | Browser extension |
+| **[zapret-mac-discord-youtube]([https://github.com/c1osed1/LanSearch](https://github.com/c1osed1/zapret-mac-discord-youtube))** | Zapret for Mac |
+
 
 ---
 
