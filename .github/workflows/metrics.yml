@@ -21,7 +21,6 @@ jobs:
           filename: metrics/base.svg
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
-          theme: dark
           config_timezone: Europe/Moscow
           committer_message: "chore(metrics): base [skip ci]"
 
@@ -37,12 +36,8 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
           plugin_languages_indepth: yes
-          theme: dark
           config_timezone: Europe/Moscow
           committer_message: "chore(metrics): languages [skip ci]"
 
@@ -54,7 +49,6 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          theme: dark
           config_timezone: Europe/Moscow
           committer_message: "chore(metrics): isocalendar [skip ci]"
 
@@ -69,7 +63,6 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          theme: dark
           config_timezone: Europe/Moscow
           committer_message: "chore(metrics): habits [skip ci]"
 
@@ -84,6 +77,5 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_display: detailed
           plugin_achievements_limit: 8
-          theme: dark
           config_timezone: Europe/Moscow
           committer_message: "chore(metrics): achievements [skip ci]"
