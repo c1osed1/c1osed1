@@ -77,7 +77,12 @@ React frontends, TypeScript APIs, and native macOS apps in Swift.
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=c1osed1&bg_color=0B0B0B&color=7DD3C7&line=7DD3C7&point=E8E8E8&area=true&hide_border=true&custom_title=activity" alt="activity" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c1osed1&theme=github_dark" alt="activity" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c1osed1&theme=github_dark" alt="repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c1osed1&theme=github_dark&utcOffset=3" alt="productive time" />
 
 <br/>
 
