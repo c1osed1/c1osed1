@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/c1osed1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3200&pause=900&color=7DD3C7&center=true&vCenter=true&width=620&height=80&lines=hey%2C+i'm+qsoul;React+%C2%B7+TypeScript+%C2%B7+Flutter;macOS+%C2%B7+web+%C2%B7+mobile" alt="qsoul" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3200&pause=900&color=7DD3C7&center=true&vCenter=true&width=620&height=80&lines=hey%2C+i'm+qsoul;React+%C2%B7+TypeScript+%C2%B7+Swift;macOS+%C2%B7+web+%C2%B7+mobile" alt="qsoul" />
 </a>
 
 **Developer based in Moscow.** I build products across web, mobile and macOS —
-React frontends, TypeScript APIs, Flutter, and the occasional native Swift app.
+React frontends, TypeScript APIs, and native macOS apps in Swift.
 
 [![Telegram](https://img.shields.io/badge/Telegram-qsoulmain-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qsoulmain)
 [![GitHub](https://img.shields.io/badge/GitHub-c1osed1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c1osed1)
@@ -27,13 +27,32 @@ React frontends, TypeScript APIs, Flutter, and the occasional native Swift app.
 
 ### selected projects
 
+**Apple & native**
+
 | project | what it is |
 |---|---|
 | **[soundpulse](https://github.com/c1osed1/soundpulse)** | Native macOS menu bar player for Apple Music & Spotify — Liquid Glass |
 | **[konnectapp](https://github.com/c1osed1/konnectapp)** | iOS client |
-| **[LanSearch](https://github.com/c1osed1/LanSearch)** | Browser extension |
+| **[MacBookDuo](https://github.com/c1osed1/MacBookDuo)** | MacBook lid-fold like iPhone Duo — Glass & Duo+ driven by the real hinge |
 | **[zapret-mac-discord-youtube](https://github.com/c1osed1/zapret-mac-discord-youtube)** | Zapret for Mac |
-| **[Atoll](https://github.com/Ebullioscopic/Atoll)** | Dynamic Island for macOS |
+| **[Atoll](https://github.com/Ebullioscopic/Atoll)** | Dynamic Island for macOS — upstream contribution |
+
+**web & product**
+
+| project | what it is |
+|---|---|
+| **[kconnect-mobile](https://github.com/c1osed1/kconnect-mobile)** | Cross-platform client for the k-connect social network |
+| **[k-backend](https://github.com/c1osed1/k-backend)** | K-Connect backend — Node.js, Fastify + PostgreSQL |
+| **[multi-lanchat](https://github.com/c1osed1/multi-lanchat)** | Bridge between VK / Telegram / Max and LanChat (threaded chats) |
+| **[K-UserBot](https://github.com/c1osed1/K-UserBot)** | Auto-publishing bot for K-Connect |
+| **[LanSearch](https://github.com/c1osed1/LanSearch)** | Browser extension |
+
+**playground**
+
+| project | what it is |
+|---|---|
+| **[effusion](https://github.com/c1osed1/effusion)** | Interactive lab installer: OpenFlux + olcRTC (`curl \| bash`) |
+| **[meme10](https://github.com/c1osed1/meme10)** | Windows XP meme desktop. Open folders. Steal images. Regret nothing. |
 
 ---
 
@@ -54,8 +73,7 @@ React frontends, TypeScript APIs, Flutter, and the occasional native Swift app.
 
 <br/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=c1osed1&hide_border=true&background=0B0B0B&ring=7DD3C7&fire=7DD3C7&currStreakLabel=7DD3C7&sideLabels=C8C8C8&dates=6B7280&currStreakNum=E8E8E8&sideNums=E8E8E8" alt="streak" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=c1osed1&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8" alt="trophies" />
+<img width="100%" src="https://streak-stats.demolab.com?user=c1osed1&hide_border=true&background=0B0B0B&ring=7DD3C7&fire=7DD3C7&currStreakLabel=7DD3C7&sideLabels=C8C8C8&dates=6B7280&currStreakNum=E8E8E8&sideNums=E8E8E8" alt="streak" />
 
 <br/>
 
@@ -64,8 +82,8 @@ React frontends, TypeScript APIs, Flutter, and the occasional native Swift app.
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c1osed1/c1osed1/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/c1osed1/c1osed1/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c1osed1/c1osed1/refs/heads/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/c1osed1/c1osed1/refs/heads/output/github-snake.svg" />
 </picture>
 
 </div>
