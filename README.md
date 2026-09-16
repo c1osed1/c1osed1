@@ -68,21 +68,23 @@ React frontends, TypeScript APIs, and native macOS apps in Swift.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=c1osed1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0B0B&title_color=7DD3C7&icon_color=7DD3C7&text_color=C8C8C8&ring_color=7DD3C7" alt="stats" />
-<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=c1osed1&layout=compact&hide_border=true&bg_color=0B0B0B&title_color=7DD3C7&text_color=C8C8C8&langs_count=8" alt="langs" />
+<img src="./metrics/base.svg" alt="metrics" />
 
 <br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=c1osed1&hide_border=true&background=0B0B0B&ring=7DD3C7&fire=7DD3C7&currStreakLabel=7DD3C7&sideLabels=C8C8C8&dates=6B7280&currStreakNum=E8E8E8&sideNums=E8E8E8" alt="streak" />
+<img src="./metrics/languages.svg" alt="languages" />
 
 <br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c1osed1&theme=github_dark" alt="activity" />
+<img width="100%" src="./metrics/isocalendar.svg" alt="isometric calendar" />
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c1osed1&theme=github_dark" alt="repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c1osed1&theme=github_dark&utcOffset=3" alt="productive time" />
+<img src="./metrics/habits.svg" alt="habits" />
+
+<br/>
+
+<img src="./metrics/achievements.svg" alt="achievements" />
 
 <br/>
 
