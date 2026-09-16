@@ -66,35 +66,4 @@ React frontends, TypeScript APIs, and native macOS apps in Swift.
 
 ---
 
-<div align="center">
-
-<img src="./metrics/base.svg" alt="metrics" />
-
-<br/>
-
-<img src="./metrics/languages.svg" alt="languages" />
-
-<br/>
-
-<img width="100%" src="./metrics/isocalendar.svg" alt="isometric calendar" />
-
-<br/>
-
-<img src="./metrics/habits.svg" alt="habits" />
-
-<br/>
-
-<img src="./metrics/achievements.svg" alt="achievements" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c1osed1/c1osed1/refs/heads/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/c1osed1/c1osed1/refs/heads/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 <div align="center"><sub>always shipping something · <a href="https://t.me/qsoulmain">@qsoulmain</a></sub></div>
